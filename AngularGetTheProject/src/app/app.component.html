@@ -1,0 +1,77 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary"  *ngIf="router.url !== '/login' && router.url !== '/signup'" style="background-color: #e3f2fd;">
+    <div class="container">
+      <a class="navbar-brand" href="/accueil">GetTheProject</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Missions
+            </a>
+            <ul class="dropdown-menu">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/missions">Liste des missions</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/add-mission">Ajouter mission</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Profils
+            </a>
+            <ul class="dropdown-menu">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/profils">Liste des profils</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/stepsregister">Ajouter profil</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Espace Freelance
+            </a>
+            <ul class="dropdown-menu">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/deposer-profil">Déposer son profil</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" routerLink="/demande-prestation">Demandes de prestations</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Cabinet IT
+            </a>
+            <ul class="dropdown-menu">
+            </ul>
+          </li>
+        </ul>
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Client Final
+            </a>
+            <ul class="dropdown-menu">
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <ul class="nav navbar-nav navbar-right ">
+        <li><a href="#" class="fa fa-sign-out"><span class="glyphicon glyphicon-log-in"></span> Déconnexion <span class="caret"></span></a></li>
+      </ul>
+    </div>
+  </nav>
+<router-outlet></router-outlet>

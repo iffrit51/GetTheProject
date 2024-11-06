@@ -1,0 +1,36 @@
+<div class="container my-5">
+    <h1 class="mb-3">Ajouter une nouvelle mission</h1>
+    <div class="row">
+        <div class="col-6">
+            <form #form="ngForm" (ngSubmit)="addMission()">
+                <div class="mb-3">
+                    <label for="reference" class="form-label">Référence</label>
+                    <input type="text" class="form-control" id="reference" 
+                    name="reference" [(ngModel)]="addMissionRequest.reference">
+                </div>
+                <div class="mb-3">
+                    <label for="intitule" class="form-label">Intitulé</label>
+                    <input type="text" class="form-control" id="intitule" 
+                    name="intitule" [(ngModel)]="addMissionRequest.intitule">
+                </div>
+                <div class="mb-3">
+                    <label for="lieu" class="form-label">Lieu</label>
+                    <input type="text" class="form-control" id="lieu" 
+                    name="lieu" [(ngModel)]="addMissionRequest.lieu">
+                </div>
+                <div class="mb-3">
+                    <label for="demarage" class="form-label">Démarage</label>
+                    <input type="datetime-local" class="form-control" id="demarage" 
+                    name="demarage" [(ngModel)]="addMissionRequest.demarage">
+                </div>
+                <div class="mb-3">
+                    <label for="societe" class="form-label">Société</label>
+                    <input type="text" class="form-control" id="societe" 
+                    name="societe" [(ngModel)]="addMissionRequest.societe">
+                </div>
+                  <button type="submit" class="btn btn-primary">Enregistrer</button>
+            </form>
+        </div>
+    </div>
+
+</div>>

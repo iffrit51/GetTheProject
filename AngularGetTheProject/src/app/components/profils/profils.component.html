@@ -1,0 +1,38 @@
+<div class="container my-5">
+    <h1>Profils</h1>
+    <table class="table" *ngIf="profils && profils.length>0">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Civilité</th>
+            <th>Prénom</th>
+            <th>Nom</th>
+            <th>Email</th>
+            <th>Fonction</th>
+            <th>Adresse</th>
+            <th>CodePostal</th>
+            <th>Ville</th>
+            <th>Pays</th>
+            <th>Téléphone</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let profil of profils">
+            <td>{{ profil.type }}</td>
+            <td>{{ profil.civilite }}</td>
+            <td>{{ profil.prenom }}</td>
+            <td>{{ profil.nom }}</td>
+            <td>{{ profil.email }}</td>
+            <td>{{ profil.fonction }}</td>
+            <td>{{ profil.adresse }}</td>
+            <td>{{ profil.codePostal }}</td>
+            <td>{{ profil.ville }}</td>
+            <td>{{ profil.pays }}</td>
+            <td>{{ profil.telephone }}</td>
+            <td><a [routerLink]="['/edit-profil',profil.id]">Modifier</a></td>
+          </tr>
+        </tbody>
+    </table>
+    <p *ngIf="!profils || profils.length<=0">Aucun profil trouvée</p>
+</div>

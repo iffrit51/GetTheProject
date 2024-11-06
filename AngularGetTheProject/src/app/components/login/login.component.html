@@ -1,0 +1,56 @@
+<div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <div class="panel border bg-white">
+                    <div class="panel-heading">
+                        <h3 class="pt-3 font-weight-bold">Déjà membre ?</h3>
+                    </div>
+                    <div class="panel-body p-3">
+                        <form [formGroup]="loginForm">
+                            <div class="form-group pt-3">
+                               <div class="input-field">
+                                    <span class="fa fa-user p-2"></span>
+                                    <input FormControlName="username" type="text" placeholder="E-Mail">
+                               </div> 
+                            </div>
+                            <small class="text-danger">*E-Mail est nécessaire</small>
+                            <div class="form-group pt-3">
+                                <div class="input-field">
+                                     <span class="fa fa-lock p-2"></span>
+                                     <input FormControlName="password" [type]="type" placeholder="Mot de passe">
+                                     <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
+                                </div> 
+                             </div>
+                             <small  class="text-danger">*Mot de passe est nécessaire</small>
+                             <div class="form-inline fr mt-4">
+                                <a id="oublié" class="font-weight-bold">Mot de passe oublié ?</a>
+                             </div>
+                             <button (click)="onSubmit()" type="submit" class="btn btn-primary btn-block mt-4 w-100">Connexion</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm">
+                <form [formGroup]="loginForm">
+                <div class="panel border bg-white">
+                    <div class="panel-heading">
+                        <h3 class="pt-3 font-weight-bold">C’est votre 1ère connexion ?
+                        </h3>
+                        <br>
+                        <h3 class="pt-3 font-weight-bold">Créez votre compte en quelques minutes
+                            pour accéder à nos services. 
+                        </h3>
+                        <h3 class="pt-3 font-weight-bold">Gettheproject s’engage à sécuriser vos informations et les garder strictement confidentielles.  
+                        </h3>
+                    </div>
+                    <br><br>
+                    <div class="panel-body p-3">
+                    <button (click)="Sinscrire()" type="submit"  class="btn btn-primary btn-block mt-4 w-100 ">S'inscrire</button>
+                    </div>
+                 </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

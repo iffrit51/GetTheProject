@@ -1,0 +1,81 @@
+<mat-horizontal-stepper linear>
+    <!-- Etape 1 : Informations du Profil -->
+    <mat-step [stepControl]="firstFormGroup" errorMessage="Informations manquantes.">
+      <form [formGroup]="firstFormGroup">
+        <ng-template matStepLabel>Profil</ng-template>
+        
+        <!-- Site web -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Site web</mat-label>
+          <input matInput formControlName="website" placeholder="Entrez votre site web ici">
+        </mat-form-field>
+  
+        <!-- Formation -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Formation</mat-label>
+          <textarea matInput formControlName="formation" rows="4"
+                    placeholder="Copier/coller ici les diplômes et formations suivies de votre Profil"></textarea>
+        </mat-form-field>
+  
+        <!-- Niveau d’étude -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Niveau d’étude</mat-label>
+          <input matInput formControlName="niveauEtude" placeholder="Indiquez votre niveau d'étude">
+        </mat-form-field>
+  
+        <!-- Compétences techniques -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Compétences techniques</mat-label>
+          <textarea matInput formControlName="competences" rows="4"
+                    placeholder="Copier/coller ici les compétences techniques de votre Profil"></textarea>
+        </mat-form-field>
+  
+        <!-- Autres champs similaires -->
+  
+        <div>
+          <button mat-button matStepperNext>Suivant</button>
+        </div>
+      </form>
+    </mat-step>
+  
+    <!-- Etape 2 : Recherche de Prestation -->
+    <mat-step [stepControl]="secondFormGroup" errorMessage="Informations manquantes.">
+      <form [formGroup]="secondFormGroup">
+        <ng-template matStepLabel>Recherche de Prestation</ng-template>
+        
+        <!-- Tarif de prestation -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Tarif de prestation (en euros ht/jour)</mat-label>
+          <mat-select formControlName="tarif">
+            <mat-option value="<260">&lt; 260</mat-option>
+            <mat-option value="270-300">270 - 300</mat-option>
+            <mat-option value="300-350">300 - 350</mat-option>
+            <!-- Autres options -->
+          </mat-select>
+        </mat-form-field>
+  
+        <!-- Région de travail souhaitée -->
+        <mat-form-field appearance="outline" class="w-100 mb-3">
+          <mat-label>Région de travail souhaitée</mat-label>
+          <input matInput formControlName="region" placeholder="Indiquez votre région">
+        </mat-form-field>
+  
+        <!-- Disponibilité avec boutons radio -->
+        <label>Disponibilité :</label>
+        <mat-radio-group formControlName="disponibilite" class="d-flex flex-column mb-3">
+          <mat-radio-button value="Immédiate">Immédiate</mat-radio-button>
+          <mat-radio-button value="<1mois">&lt; 1 mois</mat-radio-button>
+          <mat-radio-button value="<3mois">&lt; 3 mois</mat-radio-button>
+          <mat-radio-button value="3moisplus">3 mois et +</mat-radio-button>
+        </mat-radio-group>
+  
+        <!-- Autres champs similaires -->
+  
+        <div>
+          <button mat-button matStepperPrevious>Précédent</button>
+          <button mat-button (click)="onSubmit()">Soumettre</button>
+        </div>
+      </form>
+    </mat-step>
+  </mat-horizontal-stepper>
+  

@@ -1,0 +1,174 @@
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.exe
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.deps.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.runtimeconfig.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.pdb
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.AssemblyInfo.cs
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.GetTheProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GetTheProjectAPI.props
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GetTheProjectAPI.props
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GetTheProjectAPI.props
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\scopedcss\bundle\GetTheProjectAPI.styles.css
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.csproj.CopyComplete
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\refint\GetTheProjectAPI.dll
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.pdb
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.genruntimeconfig.cache
+C:\Users\Bmatrane\OneDrive - WE+\Bureau\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\ref\GetTheProjectAPI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.exe
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.deps.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.runtimeconfig.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\GetTheProjectAPI.pdb
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.csproj.AssemblyReference.cache
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.AssemblyInfoInputs.cache
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.AssemblyInfo.cs
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.GetTheProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GetTheProjectAPI.props
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GetTheProjectAPI.props
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GetTheProjectAPI.props
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\scopedcss\bundle\GetTheProjectAPI.styles.css
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetThePr.15C22742.Up2Date
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\refint\GetTheProjectAPI.dll
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.pdb
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\GetTheProjectAPI.genruntimeconfig.cache
+C:\Users\BCHARLES\OneDrive - ALAN ALLMAN ASSOCIATES\Bureau\Angular Project\GetTheProject\GetTheProject\GetTheProject API\GetTheProjectAPI\GetTheProjectAPI\obj\Debug\net6.0\ref\GetTheProjectAPI.dll

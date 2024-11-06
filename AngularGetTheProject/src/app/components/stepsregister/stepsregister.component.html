@@ -1,0 +1,119 @@
+<mat-stepper #stepper >
+    <mat-step [stepControl]="firstFormGroup" errorMessage="informations manquantes.">
+      <form [formGroup]="firstFormGroup">
+        <ng-template matStepLabel>Etape 1</ng-template>
+        <p>Profil :</p>
+        <mat-form-field class="mat-form" appearance="outline">
+          <mat-label>Type</mat-label>
+          <input matInput placeholder="Type" formControlName="firstCtrl"  [(ngModel)]="addProfilRequest.type" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+          <mat-label>Civilité</mat-label>
+          <input matInput placeholder="Civilité" formControlName="firstCtrl"  [(ngModel)]="addProfilRequest.civilite" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Nom</mat-label>
+            <input matInput placeholder="Nom" formControlName="firstCtrl"  [(ngModel)]="addProfilRequest.nom" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Prénom</mat-label>
+            <input matInput placeholder="Prénom" formControlName="firstCtrl" [(ngModel)]="addProfilRequest.prenom" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Fonction</mat-label>
+            <input matInput placeholder="Fonction" formControlName="firstCtrl" [(ngModel)]="addProfilRequest.fonction" required>
+        </mat-form-field>
+        <p>Identifiant Gettheproject :</p>
+        <mat-form-field class="mat-form" appearance="outline">
+          <mat-label>Votre Email</mat-label>
+          <input matInput placeholder="Email" formControlName="firstCtrl" [(ngModel)]="addProfilRequest.email" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Choisir un Mot de passe</mat-label>
+            <input matInput [type]="type" placeholder="Mot de passe" formControlName="firstCtrl" [(ngModel)]="addProfilRequest.motdepasse" required>
+            <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Confirmation de mot de passe</mat-label>
+            <input matInput [type]="type" placeholder="Confirmation mot de passe" formControlName="firstCtrl"  required>
+            <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
+        </mat-form-field>
+        <div>
+          <button mat-button class="btn btn-primary" matStepperNext>Suivant</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="secondFormGroup" errorMessage="informations manquantes.">
+      <form [formGroup]="secondFormGroup">
+        <ng-template matStepLabel>Etape 2</ng-template>
+        <p>Société :</p>
+        <mat-form-field class="mat-form" appearance="outline">
+          <mat-label>Nom de la société</mat-label>
+          <input matInput placeholder="Nom de la société " formControlName="secondCtrl" [(ngModel)]="addProfilRequest.nomsociete" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Adresse</mat-label>
+            <input matInput placeholder="Adresse " formControlName="secondCtrl" [(ngModel)]="addProfilRequest.adresse" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Code postal</mat-label>
+            <input matInput placeholder="Code postal" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.codePostal" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Ville</mat-label>
+            <input matInput placeholder="Ville" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.ville" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Pays</mat-label>
+            <input matInput placeholder="Pays" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.pays" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Numéro de siret</mat-label>
+            <input matInput placeholder="Siret" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.siret" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Téléphone</mat-label>
+            <input matInput placeholder="Téléphone" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.telephone" required>
+        </mat-form-field>
+        <mat-form-field class="mat-form" appearance="outline">
+            <mat-label>Site web</mat-label>
+            <input matInput placeholder="Site web" formControlName="secondCtrl" [(ngModel)]="addProfilRequest.siteweb" required>
+        </mat-form-field>
+        <div>
+          <button mat-button class="btn btn-primary" matStepperPrevious>Retour</button>&nbsp;
+          <button mat-button class="btn btn-primary" matStepperNext>Suivant</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="thirdFormGroup" >
+    <form [formGroup]="thirdFormGroup">
+      <ng-template matStepLabel>Etape 3</ng-template>
+      <p>Invitez d’autres utilisateurs de votre société (ou autre) à rejoindre Gettheproject</p>
+      <mat-form-field class="mat-form" appearance="outline">
+        <mat-label>Email 1</mat-label>
+        <input matInput placeholder="Email" formControlName="thirdCtrl" [(ngModel)]="addProfilRequest.email1" >
+      </mat-form-field>
+      <mat-form-field class="mat-form" appearance="outline">
+        <mat-label>Email 2</mat-label>
+        <input matInput placeholder="Email" formControlName="thirdCtrl" [(ngModel)]="addProfilRequest.email2" >
+      </mat-form-field>
+      <mat-form-field class="mat-form" appearance="outline" >
+        <mat-label>Email 3</mat-label>
+        <input matInput placeholder="Email" formControlName="thirdCtrl" [(ngModel)]="addProfilRequest.email3" >
+      </mat-form-field>
+      <mat-form-field class="mat-form" appearance="outline">
+        <mat-label>Email 4</mat-label>
+        <input matInput placeholder="Email" formControlName="thirdCtrl" [(ngModel)]="addProfilRequest.email4" >
+      </mat-form-field>
+      <mat-form-field class="mat-form" appearance="outline">
+        <mat-label>Email 5</mat-label>
+        <input matInput placeholder="Email" formControlName="thirdCtrl" [(ngModel)]="addProfilRequest.email5">
+      </mat-form-field>
+      <div>
+        <button mat-button class="btn btn-primary" matStepperPrevious>Retour</button>&nbsp;
+        <button mat-button class="btn btn-primary"(click)="stepper.reset()">Réinitialiser</button>
+      </div>
+      <button type="submit" class="btn btn-primary btn-block mt-4 w-100" (click)="addProfil()">S'inscrire</button>
+    </form>
+    </mat-step>
+</mat-stepper>

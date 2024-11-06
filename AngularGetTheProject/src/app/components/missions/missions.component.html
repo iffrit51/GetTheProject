@@ -1,0 +1,31 @@
+<div class="container my-5">
+    <h1>Missions</h1>
+    <!--
+    <div class="search-hero">
+      <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="&#61442;  
+      Commencez à rechercher une mission par Lieu">
+    </div>-->
+    <table class="table" *ngIf="missions && missions.length>0">
+        <thead>
+          <tr>
+            <th>Référence</th>
+            <th>Intitulé</th>
+            <th>Lieu</th>
+            <th>Démarage</th>
+            <th>Société</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let mission of missions | filter:searchText">
+            <td>{{ mission.reference }}</td>
+            <td>{{ mission.intitule }}</td>
+            <td>{{ mission.lieu }}</td>
+            <td>{{ mission.demarage | date: 'yyyy-MM-dd'}}</td>
+            <td>{{ mission.societe }}</td>
+            <td><a [routerLink]="['/edit-mission',mission.id]">Modifier</a></td>
+          </tr>
+        </tbody>
+    </table>
+    <p *ngIf="!missions || missions.length<=0">Aucune mission trouvée</p>
+</div>

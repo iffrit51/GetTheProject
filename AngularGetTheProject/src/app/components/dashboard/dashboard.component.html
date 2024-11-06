@@ -1,0 +1,17 @@
+<mat-sidenav-container >
+  <mat-sidenav  #sidenav >
+    <mat-list role="list">
+      <mat-list-item routerLink="/accueil" class="fas fa-home" role="listitem" style="cursor: pointer">Accueil
+      </mat-list-item>
+      <mat-list-item routerLink="/cabinetit" class="fas fa-user-circle" role="listitem" style="cursor: pointer">Cabinet IT
+      </mat-list-item>
+      <mat-list-item routerLink="/espacefreelance" class="fas fa-user-circle" role="listitem" style="cursor: pointer">Espace Freelance
+      </mat-list-item>
+    </mat-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content mat-elevation-z8">
+      <app-accueil></app-accueil>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

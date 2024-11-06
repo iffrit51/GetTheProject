@@ -1,0 +1,62 @@
+<div id="root">
+    <div class="container pt-5">
+      <div class="row align-items-stretch">
+        <div class="c-dashboardInfo col-lg-3 col-md-6">
+          <div class="wrap">
+            <a routerLink="/missions"><h4 class="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Missions<svg
+                class="MuiSvgIcon-root-19" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+              </svg></h4></a><span  class="hind-font caption-12 c-dashboardInfo__count"></span>
+              <div class="h5 mb-0 font-weight-bold text-gray-800" [textContent]="numberOfMissions"></div>
+          </div>
+        </div>
+        <div class="c-dashboardInfo col-lg-3 col-md-6">
+          <div class="wrap" >
+            <a routerLink="/profils"><h4 class="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Profils<svg 
+                class="MuiSvgIcon-root-19" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+  
+              </svg></h4></a><span class="hind-font caption-12 c-dashboardInfo__count"></span>
+              <div class="h5 mb-0 font-weight-bold text-gray-800" [textContent]="numberOfProfils"></div>
+          </div>
+          
+        </div>
+        <div class="c-dashboardInfo col-lg-6 col-md-6">
+          <div class="wrap">
+            <a routerLink="/espacefreelance"><h4 class="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Espace Freelance<svg
+                class="MuiSvgIcon-root-19" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+   
+              </svg></h4></a><span class="hind-font caption-12 c-dashboardInfo__count"></span>
+          </div>
+        </div>
+      </div>
+      <div class="row align-items-stretch">
+        <div class="c-dashboardInfo col-lg-6 col-md-6">
+          <div class="wrap">
+            <a routerLink="/cabinetit"><h4 class="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Cabinet IT<svg
+                class="MuiSvgIcon-root-19" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+           
+              </svg></h4></a><span class="hind-font caption-12 c-dashboardInfo__count"></span>
+          </div>
+        </div>
+        <div class="c-dashboardInfo col-lg-6 col-md-6">
+          <div class="wrap">
+            <a routerLink="/clientfinal"><h4 class="heading heading5 hind-font medium-font-weight c-dashboardInfo__title">Client final<svg
+                class="MuiSvgIcon-root-19" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+              
+              </svg></h4></a><span class="hind-font caption-12 c-dashboardInfo__count"></span>
+          </div>
+        </div>
+      </div>
+      <div class="row align-items-stretch">
+        <div class="c-dashboardInfo col-lg-12 col-md-6">
+          <div class="wrap">
+            <app-missions></app-missions>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

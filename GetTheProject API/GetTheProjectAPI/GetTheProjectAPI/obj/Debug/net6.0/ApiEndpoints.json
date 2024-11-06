@@ -1,0 +1,218 @@
+[
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "GetAllMissions",
+    "RelativePath": "api/Missions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "AddMission",
+    "RelativePath": "api/Missions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "missionRequest",
+        "Type": "GetTheProjectAPI.Models.Mission",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "GetMission",
+    "RelativePath": "api/Missions/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "UpdateMission",
+    "RelativePath": "api/Missions/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateMissionRequest",
+        "Type": "GetTheProjectAPI.Models.Mission",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "DeleteMission",
+    "RelativePath": "api/Missions/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
+    "Method": "GetNumbersOfMissions",
+    "RelativePath": "api/Missions/Number",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "GetAllProfils",
+    "RelativePath": "api/Profils",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "Addprofil",
+    "RelativePath": "api/Profils",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profilRequest",
+        "Type": "GetTheProjectAPI.Models.Profil",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "Getprofil",
+    "RelativePath": "api/Profils/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "Updateprofil",
+    "RelativePath": "api/Profils/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateprofilRequest",
+        "Type": "GetTheProjectAPI.Models.Profil",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "Deleteprofil",
+    "RelativePath": "api/Profils/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.ProfilsController",
+    "Method": "GetNumbersOfProfils",
+    "RelativePath": "api/Profils/Number",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_2",
+    "RelativePath": "security/getMessage",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
