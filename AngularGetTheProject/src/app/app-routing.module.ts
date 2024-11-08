@@ -6,6 +6,7 @@ import { AddMissionComponent } from './components/add-mission/add-mission.compon
 import { CabinetitComponent } from './components/cabinetit/cabinetit.component';
 import { ClientfinalComponent } from './components/clientfinal/clientfinal.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { DeposerProfilComponent } from './components/deposer-profil/deposer-profil.component';
 import { EditMissionComponent } from './components/edit-mission/edit-mission.component';
 import { EditProfilComponent } from './components/edit-profil/edit-profil.component';
 import { EspacefreelanceComponent } from './components/espacefreelance/espacefreelance.component';
@@ -15,8 +16,6 @@ import { MissionsComponent } from './components/missions/missions.component';
 import { ProfilsComponent } from './components/profils/profils.component';
 import { SignupComponent } from './components/signup/signup.component';
 import { StepsregisterComponent } from './components/stepsregister/stepsregister.component';
-import { DeposerProfilComponent } from './components/deposer-profil/deposer-profil.component';
-
 
 const routes: Routes = [
   {path:"", redirectTo:"/login", pathMatch:"full"},
