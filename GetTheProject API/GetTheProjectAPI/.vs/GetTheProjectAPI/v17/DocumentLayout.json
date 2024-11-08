@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\controllers\\profilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\controllers\\profilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\models\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\models\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\data\\gettheprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\data\\gettheprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\migrations\\gettheprojectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\migrations\\gettheprojectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\migrations\\20230116154618_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\migrations\\20230116154618_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\controllers\\depotprofilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|solutionrelative:gettheprojectapi\\controllers\\depotprofilscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E3DADE3-4441-4B0E-82A1-1BA467473060}|GetTheProjectAPI\\GetTheProjectAPI.csproj|c:\\users\\bcharles\\onedrive - alan allman associates\\bureau\\angular project\\gettheproject\\gettheproject\\gettheproject api\\gettheprojectapi\\gettheprojectapi\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,143 +50,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\appsettings.json",
-              "RelativeToolTip": "GetTheProjectAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T10:06:18.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetTheProjectDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Data\\GetTheProjectDbContext.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Data\\GetTheProjectDbContext.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Data\\GetTheProjectDbContext.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Data\\GetTheProjectDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T08:52:24.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Profil.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Models\\Profil.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Models\\Profil.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Models\\Profil.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Models\\Profil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:02:01.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "GetTheProjectAPI\\Properties\\serviceDependencies.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T10:12:41.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfilsController.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\ProfilsController.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Controllers\\ProfilsController.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\ProfilsController.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Controllers\\ProfilsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Title": "DepotProfilsController.cs",
+              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\DepotProfilsController.cs",
+              "RelativeDocumentMoniker": "GetTheProjectAPI\\Controllers\\DepotProfilsController.cs",
+              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\DepotProfilsController.cs",
+              "RelativeToolTip": "GetTheProjectAPI\\Controllers\\DepotProfilsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:02:01.907Z",
+              "WhenOpened": "2024-11-06T14:08:26.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Program.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:02:01.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MissionsController.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\MissionsController.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Controllers\\MissionsController.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Controllers\\MissionsController.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Controllers\\MissionsController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwCwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T09:02:01.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GetTheProjectAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T09:36:34.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20230116154618_Initial Migration.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Migrations\\20230116154618_Initial Migration.Designer.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Migrations\\20230116154618_Initial Migration.Designer.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Migrations\\20230116154618_Initial Migration.Designer.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Migrations\\20230116154618_Initial Migration.Designer.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:09:22.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetTheProjectDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Migrations\\GetTheProjectDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "GetTheProjectAPI\\Migrations\\GetTheProjectDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Migrations\\GetTheProjectDbContextModelSnapshot.cs",
-              "RelativeToolTip": "GetTheProjectAPI\\Migrations\\GetTheProjectDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwHsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:29:20.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "serviceDependencies.local.json",
               "DocumentMoniker": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\serviceDependencies.local.json",
               "RelativeDocumentMoniker": "GetTheProjectAPI\\Properties\\serviceDependencies.local.json",
               "ToolTip": "C:\\Users\\BCHARLES\\OneDrive - ALAN ALLMAN ASSOCIATES\\Bureau\\Angular Project\\GetTheProject\\GetTheProject\\GetTheProject API\\GetTheProjectAPI\\GetTheProjectAPI\\Properties\\serviceDependencies.local.json",
               "RelativeToolTip": "GetTheProjectAPI\\Properties\\serviceDependencies.local.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-31T10:12:53.717Z"
+              "WhenOpened": "2024-10-31T10:12:53.717Z",
+              "EditorCaption": ""
             }
           ]
         },

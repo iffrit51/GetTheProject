@@ -25,3 +25,63 @@ input, textarea {
   .upload-button:hover {
     background-color: #0056b3;
   }
+
+/* Styling for radio button containers */
+.radio-option {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Reduce the gap between radio button and label */
+  }
+  
+  /* Custom radio button styling */
+  .radio-input {
+    width: 18px; /* Adjust the size of the radio button */
+    height: 18px; /* Adjust the size of the radio button */
+    cursor: pointer;
+    margin: 0;
+  }
+  
+  /* Styling for the labels */
+  .radio-label {
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Styling for the radio button group */
+  .d-flex {
+    display: flex;
+    gap: 20px; /* Space between radio button options */
+  }
+  
+  /* Optional: focus styles */
+  .radio-input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #4d90fe;
+  }
+  
+  /* Styling for checkbox container */
+.checkbox-option {
+    display: flex;
+    align-items: center;
+    gap: 5px; /* Reduce the gap between checkbox and label */
+  }
+  
+  /* Custom checkbox styling */
+  .checkbox-input {
+    width: 18px; /* Adjust the size of the checkbox */
+    height: 18px; /* Adjust the size of the checkbox */
+    margin: 0; /* Remove any default margin */
+    cursor: pointer;
+  }
+  
+  /* Styling for the label */
+  .checkbox-label {
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Optional: focus styles */
+  .checkbox-input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #4d90fe;
+  }

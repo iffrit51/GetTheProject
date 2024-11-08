@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "GetTheProjectAPI.Controllers.DepotProfilsController",
+    "Method": "AddDepotProfil",
+    "RelativePath": "api/DepotProfils",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "depotProfilRequest",
+        "Type": "DepotProfils",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetTheProjectAPI.Controllers.DepotProfilsController",
+    "Method": "GetDepotProfil",
+    "RelativePath": "api/DepotProfils/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GetTheProjectAPI.Controllers.MissionsController",
     "Method": "GetAllMissions",
     "RelativePath": "api/Missions",

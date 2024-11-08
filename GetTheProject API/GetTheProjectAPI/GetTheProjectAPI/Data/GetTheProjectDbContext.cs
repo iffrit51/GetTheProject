@@ -9,5 +9,6 @@ namespace GetTheProjectAPI.Data
 
         public DbSet<Mission> Missions { get; set; }
         public DbSet<Profil> Profils { get; set; }
+        public DbSet<DepotProfils> DepotProfils { get; set; }
     }
 }
