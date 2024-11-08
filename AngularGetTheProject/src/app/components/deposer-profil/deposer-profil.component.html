@@ -1,81 +1,265 @@
-<mat-horizontal-stepper linear>
-    <!-- Etape 1 : Informations du Profil -->
-    <mat-step [stepControl]="firstFormGroup" errorMessage="Informations manquantes.">
-      <form [formGroup]="firstFormGroup">
-        <ng-template matStepLabel>Profil</ng-template>
-        
-        <!-- Site web -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Site web</mat-label>
-          <input matInput formControlName="website" placeholder="Entrez votre site web ici">
-        </mat-form-field>
-  
-        <!-- Formation -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Formation</mat-label>
-          <textarea matInput formControlName="formation" rows="4"
-                    placeholder="Copier/coller ici les diplômes et formations suivies de votre Profil"></textarea>
-        </mat-form-field>
-  
-        <!-- Niveau d’étude -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Niveau d’étude</mat-label>
-          <input matInput formControlName="niveauEtude" placeholder="Indiquez votre niveau d'étude">
-        </mat-form-field>
-  
-        <!-- Compétences techniques -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Compétences techniques</mat-label>
-          <textarea matInput formControlName="competences" rows="4"
-                    placeholder="Copier/coller ici les compétences techniques de votre Profil"></textarea>
-        </mat-form-field>
-  
-        <!-- Autres champs similaires -->
-  
-        <div>
-          <button mat-button matStepperNext>Suivant</button>
+<div *ngIf="currentStep === 0" class="card shadow p-4 mb-4">
+  <h3 class="card-title text-center">Profil</h3>
+  <form [formGroup]="firstFormGroup">
+
+    <!-- Titre de votre Profil -->
+    <div class="form-group mb-4">
+      <label for="titreProfil" class="font-weight-bold">Titre de votre Profil</label>
+      <input type="text" id="titreProfil" formControlName="titreProfil" placeholder="Titre de votre profil"
+        class="form-control">
+    </div>
+
+    <!-- Site web -->
+    <div class="form-group mb-4">
+      <label for="website" class="font-weight-bold">Site web (votre éventuel site web)</label>
+      <input type="text" id="website" formControlName="website" placeholder="Entrez votre site web ici"
+        class="form-control">
+    </div>
+
+    <!-- Formation -->
+    <div class="form-group mb-4">
+      <label for="formation" class="font-weight-bold">Votre formation</label>
+      <textarea id="formation" formControlName="formation" rows="4"
+        placeholder="Copier/coller ici les diplômes et formations suivies de votre Profil"
+        class="form-control"></textarea>
+    </div>
+
+    <!-- Niveau d’étude -->
+    <div class="form-group mb-4">
+      <label for="niveauEtude" class="font-weight-bold">Niveau d’étude</label>
+      <select id="niveauEtude" formControlName="niveauEtude" class="form-control">
+        <option value="" disabled selected>Indiquez votre niveau d'étude</option>
+        <option value="bac">Bac</option>
+        <option value="bac+2">Bac+2</option>
+        <option value="bac+3">Bac+3</option>
+        <option value="bac+4">Bac+4</option>
+        <option value="bac+5">Bac+5</option>
+      </select>
+    </div>
+
+    <!-- Compétences techniques -->
+    <div class="form-group mb-4">
+      <label for="competences" class="font-weight-bold">Compétences techniques</label>
+      <textarea id="competences" formControlName="competences" rows="4"
+        placeholder="Copier/coller ici les compétences techniques de votre Profil" class="form-control"></textarea>
+    </div>
+
+    <!-- Parcours professionnel -->
+    <div class="form-group mb-4">
+      <label for="parcours" class="font-weight-bold">Parcours professionnel</label>
+      <textarea id="parcours" formControlName="parcours" rows="4"
+        placeholder="Copier/coller ici les expériences professionnelles de votre Profil"
+        class="form-control"></textarea>
+    </div>
+
+    <!-- Langues -->
+    <div class="form-group mb-4">
+      <label class="font-weight-bold">Langues</label>
+      <div class="row">
+        <!-- Langue 1 Box -->
+        <div class="col-md-4">
+          <div class="border p-3 mb-3">
+            <label class="font-weight-bold">Langue 1</label>
+            <!-- Langue 1 Dropdown -->
+            <select formControlName="langue1" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la Langue 1</option>
+              <option value="allemand">Allemand</option>
+              <option value="anglais">Anglais</option>
+              <option value="chinois">Chinois</option>
+              <option value="espagnol">Espagnol</option>
+              <option value="francais">Français</option>
+              <option value="italien">Italien</option>
+              <option value="japonais">Japonais</option>
+              <option value="portugais">Portugais</option>
+            </select>
+            <!-- Langue 1 Proficiency Dropdown -->
+            <select formControlName="langue1Proficiency" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la compétence</option>
+              <option value="bilingue">Bilingue</option>
+              <option value="courant">Courant</option>
+              <option value="lu-ecrit">Lu, écrit</option>
+            </select>
+          </div>
         </div>
-      </form>
-    </mat-step>
-  
-    <!-- Etape 2 : Recherche de Prestation -->
-    <mat-step [stepControl]="secondFormGroup" errorMessage="Informations manquantes.">
-      <form [formGroup]="secondFormGroup">
-        <ng-template matStepLabel>Recherche de Prestation</ng-template>
-        
-        <!-- Tarif de prestation -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Tarif de prestation (en euros ht/jour)</mat-label>
-          <mat-select formControlName="tarif">
-            <mat-option value="<260">&lt; 260</mat-option>
-            <mat-option value="270-300">270 - 300</mat-option>
-            <mat-option value="300-350">300 - 350</mat-option>
-            <!-- Autres options -->
-          </mat-select>
-        </mat-form-field>
-  
-        <!-- Région de travail souhaitée -->
-        <mat-form-field appearance="outline" class="w-100 mb-3">
-          <mat-label>Région de travail souhaitée</mat-label>
-          <input matInput formControlName="region" placeholder="Indiquez votre région">
-        </mat-form-field>
-  
-        <!-- Disponibilité avec boutons radio -->
-        <label>Disponibilité :</label>
-        <mat-radio-group formControlName="disponibilite" class="d-flex flex-column mb-3">
-          <mat-radio-button value="Immédiate">Immédiate</mat-radio-button>
-          <mat-radio-button value="<1mois">&lt; 1 mois</mat-radio-button>
-          <mat-radio-button value="<3mois">&lt; 3 mois</mat-radio-button>
-          <mat-radio-button value="3moisplus">3 mois et +</mat-radio-button>
-        </mat-radio-group>
-  
-        <!-- Autres champs similaires -->
-  
-        <div>
-          <button mat-button matStepperPrevious>Précédent</button>
-          <button mat-button (click)="onSubmit()">Soumettre</button>
+
+        <!-- Langue 2 Box -->
+        <div class="col-md-4">
+          <div class="border p-3 mb-3">
+            <label class="font-weight-bold">Langue 2</label>
+            <!-- Langue 2 Dropdown -->
+            <select formControlName="langue2" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la Langue 2</option>
+              <option value="allemand">Allemand</option>
+              <option value="anglais">Anglais</option>
+              <option value="chinois">Chinois</option>
+              <option value="espagnol">Espagnol</option>
+              <option value="francais">Français</option>
+              <option value="italien">Italien</option>
+              <option value="japonais">Japonais</option>
+              <option value="portugais">Portugais</option>
+            </select>
+            <!-- Langue 2 Proficiency Dropdown -->
+            <select formControlName="langue2Proficiency" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la compétence</option>
+              <option value="bilingue">Bilingue</option>
+              <option value="courant">Courant</option>
+              <option value="lu-ecrit">Lu, écrit</option>
+            </select>
+          </div>
         </div>
-      </form>
-    </mat-step>
-  </mat-horizontal-stepper>
-  
+
+        <!-- Langue 3 Box -->
+        <div class="col-md-4">
+          <div class="border p-3 mb-3">
+            <label class="font-weight-bold">Langue 3</label>
+            <!-- Langue 3 Dropdown -->
+            <select formControlName="langue3" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la Langue 3</option>
+              <option value="allemand">Allemand</option>
+              <option value="anglais">Anglais</option>
+              <option value="chinois">Chinois</option>
+              <option value="espagnol">Espagnol</option>
+              <option value="francais">Français</option>
+              <option value="italien">Italien</option>
+              <option value="japonais">Japonais</option>
+              <option value="portugais">Portugais</option>
+            </select>
+            <!-- Langue 3 Proficiency Dropdown -->
+            <select formControlName="langue3Proficiency" class="form-control mb-3">
+              <option value="" disabled selected>Choisissez la compétence</option>
+              <option value="bilingue">Bilingue</option>
+              <option value="courant">Courant</option>
+              <option value="lu-ecrit">Lu, écrit</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Next Button -->
+    <div class="text-end">
+      <button type="button" (click)="goToNextStep()" class="btn btn-primary px-4">Suivant</button>
+    </div>
+  </form>
+</div>
+
+<div *ngIf="currentStep === 1" class="card shadow p-4">
+  <h3 class="card-title text-center">Recherche de Prestation</h3>
+  <form [formGroup]="secondFormGroup">
+
+    <!-- Niveau d’expérience -->
+    <div class="form-group mb-4">
+      <label for="experience" class="font-weight-bold">Niveau d’expérience</label>
+      <select id="experience" formControlName="experience" class="form-control">
+        <option value="" disabled selected>Indiquez votre niveau d'expérience</option>
+        <option value="0-1">0-1 an</option>
+        <option value="2-3">2-3 ans</option>
+        <option value="4-6">4-6 ans</option>
+        <option value=">6">Plus de 6 ans</option>
+      </select>
+    </div>
+
+    <!-- Tarif de prestation -->
+    <div class="form-group mb-4">
+      <label for="tarif" class="font-weight-bold">Tarif de prestation (en euros ht/jour)</label>
+      <select id="tarif" formControlName="tarif" class="form-control">
+        <option value="" disabled selected>Sélectionnez votre tarif</option>
+        <option value="<260">&lt; 260</option>
+        <option value="270-300">270 - 300</option>
+        <option value="300-350">300 - 350</option>
+        <option value="360-390">360 - 390</option>
+        <option value="400-430">400 - 430</option>
+        <option value="440-470">440 - 470</option>
+        <option value="480-510">480 - 510</option>
+        <option value="520">520</option>
+        <option value="550">550</option>
+        <option value="560-600">560 - 600</option>
+        <option value="610-650">610 - 650</option>
+        <option value="660-690">660 - 690</option>
+        <option value=">700">Plus de 700</option>
+      </select>
+    </div>
+
+    <!-- Région de travail souhaitée -->
+    <div class="form-group mb-4">
+      <label class="font-weight-bold">Région de travail souhaitée</label>
+      <input type="text" id="region" placeholder="Indiquez votre région" class="form-control">
+    </div>
+
+    <!-- Disponibilité with radio buttons -->
+    <div class="form-group mb-4">
+      <label class="font-weight-bold">Disponibilité :</label>
+      <div class="radio-group">
+        <!-- Immédiate Option -->
+        <div class="radio-option">
+          <input type="radio" formControlName="disponibilite" value="Immédiate" id="immediate" class="radio-input">
+          <label for="immediate" class="radio-label">Immédiate</label>
+        </div>
+
+        <!-- <1 mois Option -->
+        <div class="radio-option">
+          <input type="radio" formControlName="disponibilite" value="<1mois" id="lessThan1Month" class="radio-input">
+          <label for="lessThan1Month" class="radio-label">&lt; 1 mois</label>
+        </div>
+
+        <!-- <3 mois Option -->
+        <div class="radio-option">
+          <input type="radio" formControlName="disponibilite" value="<3mois" id="lessThan3Months" class="radio-input">
+          <label for="lessThan3Months" class="radio-label">&lt; 3 mois</label>
+        </div>
+
+        <!-- 3 mois et + Option -->
+        <div class="radio-option">
+          <input type="radio" formControlName="disponibilite" value="3moisplus" id="moreThan3Months"
+            class="radio-input">
+          <label for="moreThan3Months" class="radio-label">3 mois et +</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Métier recherché -->
+    <div class="form-group mb-4">
+      <label for="metier" class="font-weight-bold">Métier recherché</label>
+      <input type="text" id="metier" formControlName="metier" placeholder="Indiquez le métier recherché"
+        class="form-control">
+    </div>
+
+    <!-- Précisez votre recherche -->
+    <div class="form-group mb-4">
+      <label for="recherche" class="font-weight-bold">Précisez votre recherche</label>
+      <textarea id="recherche" formControlName="recherche" rows="4"
+        placeholder="Détails supplémentaires pour votre recherche" class="form-control"></textarea>
+    </div>
+
+    <!-- Permis de travail en France -->
+    <!-- Permis de travail en France -->
+    <div class="form-group mb-4">
+      <label class="font-weight-bold">Permis de travail en France</label>
+      <div class="d-flex gap-3">
+        <div class="radio-option">
+          <input type="radio" formControlName="permis" id="permisOui" value="Oui" class="radio-input">
+          <label for="permisOui" class="radio-label">Oui</label>
+        </div>
+        <div class="radio-option">
+          <input type="radio" formControlName="permis" id="permisNon" value="Non" class="radio-input">
+          <label for="permisNon" class="radio-label">Non</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Envoi d’emails correspondants à votre recherche -->
+    <div class="form-group mb-4">
+      <div class="checkbox-option">
+        <input type="checkbox" formControlName="envoiEmails" id="envoiEmails" class="checkbox-input">
+        <label for="envoiEmails" class="checkbox-label font-weight-bold">Envoi d’emails correspondants à votre
+          recherche</label>
+      </div>
+    </div>
+
+    <!-- Navigation Buttons -->
+    <div class="d-flex justify-content-between">
+      <button type="button" (click)="goToPreviousStep()" class="btn btn-secondary px-4">Précédent</button>
+      <button type="submit" (click)="addDepotProfil()" class="btn btn-success px-4">Soumettre</button>
+    </div>
+  </form>
+</div>

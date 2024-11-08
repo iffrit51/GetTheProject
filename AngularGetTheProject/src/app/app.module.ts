@@ -34,6 +34,7 @@ import { EditProfilComponent } from './components/edit-profil/edit-profil.compon
 import { DeposerProfilComponent } from './components/deposer-profil/deposer-profil.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -51,6 +52,7 @@ import { DeposerProfilComponent } from './components/deposer-profil/deposer-prof
     ProfilsComponent,
     ClientfinalComponent,
     EditProfilComponent,
+    DeposerProfilComponent
   ],
   imports: [
     CommonModule,
